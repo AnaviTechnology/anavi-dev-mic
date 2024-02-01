@@ -2,7 +2,7 @@
 
 **Open source USB-C computer microphone with XIAO module and Raspberry Pi RP2040 microcontroller.**
 
-ANAVI Dev Mic has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/).
+ANAVI Dev Mic has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/).
 
 # License
 
