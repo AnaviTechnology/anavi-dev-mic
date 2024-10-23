@@ -2,6 +2,12 @@
 
 **Open source USB-C computer microphone with XIAO module and Raspberry Pi RP2040 microcontroller.**
 
+![ANAVI Dev Mic](https://github.com/AnaviTechnology/anavi-dev-mic/blob/main/images/anavi-dev-mic.jpg?raw=true)
+
+ANAVI Dev Mic is a compact, affordable, exceptionally adaptable open-source microphone designed with machine learning in mind. At its core are the Seeed Studio XIAO RP2040 module and an omnidirectional digital microphone that work together to ensure high-quality sound capture and processing.
+
+[ANAVI Dev Mic was successfully funded through a crowdfunding campaign at Crowd Supply on September 26, 2024.](https://www.crowdsupply.com/anavi-technology/anavi-dev-mic)
+
 ANAVI Dev Mic has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/).
 
 # License
